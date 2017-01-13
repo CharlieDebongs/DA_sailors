@@ -30,7 +30,7 @@ class register implements interfaceRegister
    {
    		$this->clientRegister = $MySQLConnection;
 
-   		#########################################
+        #########################################
         ########## Prepare Statement  ###########
         #########################################
 
