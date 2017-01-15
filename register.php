@@ -28,9 +28,9 @@ class register implements interfaceRegister
   }
    public function storeUsers($MySQLConnection)
    {
-   		$this->clientRegister = $MySQLConnection;
+   	$this->clientRegister = $MySQLConnection;
 
-   		#########################################
+        #########################################
         ########## Prepare Statement  ###########
         #########################################
 
